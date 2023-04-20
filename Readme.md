@@ -1,6 +1,8 @@
-# TIAX project for generating UR5e control libraries
+# TIAX project for PLC UR interaction and universal state manager
 
-This project contains multiple SIMATICAX generated libraries for interaction with a UniversalRobot via Profinet
+This project contains multiple SIMATIC AX generated libraries for interaction with a UniversalRobot via Profinet and an universal state manager
+
+Related projects https://github.com/simatic-ax
 
 ## TIAX Workflow for generating libraries
   If not done, login to the AX registry
