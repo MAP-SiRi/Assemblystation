@@ -4,6 +4,10 @@ This project contains multiple SIMATIC AX generated libraries for interaction wi
 
 Related projects https://github.com/simatic-ax
 
+## Generated libraries
+--> Enable robot --> Checks for availability of robot; Enables robot if available \\
+--> State Machine --> State machine for overall station
+
 ## TIAX Workflow for generating libraries
   If not done, login to the AX registry
   (Optional at startup) Update of all packages implicitly
@@ -20,7 +24,3 @@ Related projects https://github.com/simatic-ax
    ```sh
    apax create-tialib 
    ```
-
-## Generated libraries
---> Enable robot --> Checks for availability of robot; Enables robot if available
---> State Machine --> State machine for overall station
